@@ -1,9 +1,9 @@
 ## Welcome to Tron Savages Daily.
 <img src="https://3mgj4y44nc15fnv8d303d8zb-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/Tron-TRX-Seems-to-be-the-Most-Bullish-Coin-in-the-Market-According-to-Crypto-Ratings-Service-696x449.jpg" alt="https://3mgj4y44nc15fnv8d303d8zb-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/Tron-TRX-Seems-to-be-the-Most-Bullish-Coin-in-the-Market-According-to-Crypto-Ratings-Service-696x449.jpg" height="300" width="500"><h2>Here i'll be posting about innovating Dapps that have caught my attention.<h2>
 <h3>Mostly on the Tron an IOST blockchain.<h3>
-<h4>Not only will i posting links and descriptions, but i'll also be posting about the lastes dapps that have caught my attention and have true potential in the dapp space.
+<br>
 <img src="https://blokt.com/wp-content/uploads/2018/12/Closeup-of-golden-tron-coin-TRX-cryptocurrency-over-black-and-gold-background.-Virtual-money-altcoin-and-blockchain-concept.-Image.jpg" alt="https://blokt.com/wp-content/uploads/2018/12/Closeup-of-golden-tron-coin-TRX-cryptocurrency-over-black-and-gold-background.-Virtual-money-altcoin-and-blockchain-concept.-Image.jpg" height="300" width="500">
-
+<h4>Not only will i posting links and descriptions, but i'll also be posting about the lastes dapps that have caught my attention and have true potential in the dapp space.
 
 
 ### Markdown
