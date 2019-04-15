@@ -1,6 +1,8 @@
 ## Welcome to Tron Savages Daily.
 
 <img src="https://images-platform.99static.com/bHItiUHi1Jtnw2UlLov6kJoMp3A=/fit-in/900x675/99designs-contests-attachments/53/53861/attachment_53861548" alt="https://images-platform.99static.com/bHItiUHi1Jtnw2UlLov6kJoMp3A=/fit-in/900x675/99designs-contests-attachments/53/53861/attachment_53861548" height="300" width="500">
+<center><h1><a href="https://bankroll.network/?ref=TYdBzon3an6twG6PLrm2Hz1dtrgr3uGMNV">BankRoll!</a><h1></center>
+
 <h2>Here i'll be posting about innovating Dapps that have caught my attention.<h2>
 <h3>Mostly on the Tron an IOST blockchain.<h3>
 <br>
